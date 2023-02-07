@@ -3,3 +3,8 @@
 ## Summary
 
 This repository contains all of the notes taken by [Cloris](https://github.com/clorislee1222) for the Lighthouse Labs Web Development Bootcamp.
+
+### Table of COntents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
